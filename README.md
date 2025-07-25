@@ -18,7 +18,7 @@ Systems Engineer |||, Tesco Bengaluru
 
 * 🌍  I'm based in Hyderabad (Telangana), India.
 * 🧠  I'm learning DevOps, DevSecOps, GitOps, MLOps, AIOps
-* 🤝  I'm open to collaborating on Data Warehouse, Data Lake & Data Lakehouse Solutions
+* 🤝  I'm open to collaborating on Data Lake and Data Lakehouse Design & Solutions
 ```
 name: Goutham Reddy Bojja
 role: Systems Engineer 3
