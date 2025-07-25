@@ -18,7 +18,7 @@ Systems Engineer |||, Tesco Bengaluru
 
 * 🌍  I'm based in Hyderabad (Telangana), India.
 * 🧠  I'm learning DevOps, DevSecOps, GitOps, MLOps, AIOps
-* 🤝  I'm open to collaborating on Data Lakehouse Education
+* 🤝  I'm open to collaborating on Data Warehouse, Data Lake & Data Lakehouse Solutions
 ```
 name: Goutham Reddy Bojja
 role: Systems Engineer 3
@@ -40,6 +40,7 @@ skills:
     - Cloudera (CDH, CDP)
     - Hortonworks (HDP)
     - Apache Hadoop
+    - Dremio
   - tools:
    - Linux
    - Git
