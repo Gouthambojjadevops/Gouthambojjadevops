@@ -16,10 +16,36 @@ Systems Engineer |||, Tesco Bengaluru
 11. Experience in Docker Containerization and Orchestration using Kubernetes, Application Deployments using Helm, Managing Kubernetes Storages (PV, PVC, Storage Class Provisioners), ConfigMap/Secrets, Networking (Services, Endpoints, DNS, Load Balancers, Ingress), ReplicaSets, DaemonSets, StatefulSets, Service Mesh (Istio, Linkerd), API Gateways, Network proxies (Envoy), GitOps solutions using ArgoCD.
 12. Experience in DevOps Tools - Git, GitHub/GitLab, Bitbucket, Ansible, Jenkins & HashiCorp Suite - Terraform, Consul, Vault, Boundary, Packer, Nomad, Waypoint.
 
-* 🌍  I'm based in Hyderabad (Telanagana), India.
+* 🌍  I'm based in Hyderabad (Telangana), India.
 * 🧠  I'm learning DevOps, DevSecOps, GitOps, MLOps, AIOps
 * 🤝  I'm open to collaborating on Data Lakehouse Education
-
+```
+name: Goutham Reddy Bojja
+role: Systems Engineer 3
+skills:
+  - programming:
+    - Python
+    - Bash
+  - devops:
+    - Docker
+    - Kubernetes
+    - Jenkins
+    - Ansible
+    - GitHub Actions
+  - cloud:
+    - AWS (EC2, S3, IAM, EKS)
+    - Terraform
+    - CI/CD Pipelines
+  - bigdata:
+    - Cloudera (CDH, CDP)
+    - Hortonworks (HDP)
+    - Apache Hadoop
+  - tools:
+   - Linux
+   - Git
+   - NGINX
+   - Helm
+```
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/goutham.bojja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/gouthambojjadevops" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/goutham.bojja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gouthamreddybojja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@gouthamreddybojja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> </p>
