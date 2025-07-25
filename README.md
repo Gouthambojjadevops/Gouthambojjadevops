@@ -19,11 +19,6 @@ Systems Engineer |||, Tesco Bengaluru
 * 🌍  I'm based in Hyderabad (Telanagana), India.
 * 🧠  I'm learning DevOps, DevSecOps, GitOps, MLOps, AIOps
 * 🤝  I'm open to collaborating on Data Lakehouse Education
-* 🦋 Follow me on [Facebook](https://goutham.bojja)
-* Follow me on [Twitter](https://goutham.bojja)
-
-
-
 
 ### Socials
 
